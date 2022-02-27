@@ -1,2 +1,5 @@
-# cs506-finalProject
-Final Project for CS506 by Luke Staib and Arnaud Harmange
+# CS506 – Final Project
+### Team Members: Luke Staib and Arnaud Harmange
+
+### Project Deliverable 0
+Please see "RevisedProjectProposal.pdf"
