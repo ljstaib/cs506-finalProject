@@ -3,3 +3,8 @@
 
 ### Project Deliverable 0
 Please see "Revised Project Proposal.pdf" under Deliverable-0
+
+### Project Deliverable 1
+Please see "RevisedProjectProposalDeliverable1.pdf" under Deliverable-1:</br>
+Relevant edits to our project proposal are at the bottom.</br>
+Also, relevant data analysis is in `exploration.ipynb`.
