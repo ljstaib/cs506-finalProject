@@ -13,3 +13,8 @@ Also, relevant data analysis is in `exploration.ipynb`.
 Please see "RevisedProjectProposalDeliverable2.pdf" under Deliverable-2:</br>
 Relevant edits to our project proposal are at the bottom.</br>
 Further data analysis has been done in 'exploration.ipynb'
+
+### Project Deliverable 3
+Please see "RevisedProjectProposalDeliverable3.pdf" under Deliverable-3:</br>
+Relevant edits to our project proposal are at the bottom.</br>
+Further data analysis has been done in 'exploration.ipynb'</br></br>
