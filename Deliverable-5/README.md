@@ -1,10 +1,8 @@
-# Deliverable 4
+# Deliverable 5
 
 ## Data/Data Navigation
 - Please see the "data" folder for the various datasets that we used for this project
-	- "1yr" contains ?
-	- "5yr" contains ancestry census data from 2010 to 2020.
-	- "aggregate-data" contains ?
+	- "1yr" and "5yr" contain ancestry census data from 2010 to 2020.
 	- "ancestry_line_graph" contains line graphs and their legends of ancestry census data from 2010 to 2020.
 	- "census2000" contains ancestry data from 2000.
 	- "census2020" contains ancestry data from 2020.
@@ -13,7 +11,8 @@
 	- "worldmap" contains GeoPandas data to create our immigration world map plot.
 
 ## Code
-- Please see `exploration.ipynb` for a Juypter notebook containing all of the code that we used to obtain our visualizations and results for this project.
+- Please see `exploration.ipynb` for a Jupyter notebook containing all of the code that we used to obtain our visualizations and results for this project.
+- Please see `Prediction.ipynb` for a Jupyter notebook containing all of our code for the prediction model that we created.
 
 ## How to Run
 1. Download the contents of this repository.
