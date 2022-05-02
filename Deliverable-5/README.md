@@ -13,6 +13,7 @@
 ## Documents
 - Please see the "documents" folder for:
 	- A copy of our Final Project Presentation slides.
+		- "FinalProjectPresentation.pdf"
 	- A copy of our Final Report.
 
 ## Figures
