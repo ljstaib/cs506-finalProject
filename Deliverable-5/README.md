@@ -10,10 +10,6 @@
 	- "world_pics" contains saved JPGs of each decade (1820-2020) containing a world map plot of immigration data. It also contains a GIF composed of these pictures.
 	- "worldmap" contains GeoPandas data to create our immigration world map plot.
 
-## Code
-- Please see `exploration.ipynb` for a Jupyter notebook containing all of the code that we used to obtain our visualizations and results for this project.
-- Please see `Prediction.ipynb` for a Jupyter notebook containing all of our code for the prediction model that we created.
-
 ## Documents
 - Please see the "documents" folder for:
 	- A copy of our Final Project Presentation slides.
@@ -23,6 +19,10 @@
 - Please see the "figures" folder for:
 	- An image of our current ancestry prediction model.
 	- A short video showing decadal time-lapse world graph of people emigrating to the US by country.
+
+## Code
+- Please see `exploration.ipynb` for a Jupyter notebook containing all of the code that we used to obtain our visualizations and results for this project.
+- Please see `Prediction.ipynb` for a Jupyter notebook containing all of our code for the prediction model that we created.
 
 ## How to Run
 1. Download the contents of this repository (specifically this folder).
