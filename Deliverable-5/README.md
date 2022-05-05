@@ -15,11 +15,10 @@
 	- A copy of our Final Project Presentation slides.
 		- "FinalProjectPresentation.pdf"
 	- A copy of our Final Report.
+		- "FinalReport.pdf"
 
 ## Figures
-- Please see the "figures" folder for:
-	- An image of our current ancestry prediction model.
-	- A short video showing decadal time-lapse world graph of people emigrating to the US by country.
+- Please see the "figures" folder for a short video showing decadal time-lapse world graph of people emigrating to the US by country. This figure was discussed in our paper, but it is displayed as an image in our PDF file.
 
 ## Code
 - Please see `exploration.ipynb` for a Jupyter notebook containing all of the code that we used to obtain our visualizations and results for this project.
