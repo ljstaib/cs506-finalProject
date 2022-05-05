@@ -11,7 +11,7 @@
 	- "worldmap" contains GeoPandas data to create our immigration world map plot.
 
 ## Documents
-- Please see the "documents" folder for:
+- Please see the following files:
 	- A copy of our Final Project Presentation slides.
 		- "FinalProjectPresentation.pdf"
 	- A copy of our Final Report.
